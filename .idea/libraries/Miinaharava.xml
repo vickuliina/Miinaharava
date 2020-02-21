@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Miinaharava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/classes/Miinaharava.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
