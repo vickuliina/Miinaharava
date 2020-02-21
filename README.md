@@ -5,7 +5,7 @@ Alunperin peli on tehty Turun yliopiston Harjoitustyö-kurssilla.
 Peli sisältää 3 eri kokoista perinteistä Miinaharava-kenttää ja tarkoituksena oli tallentaa parhaimmat ajat muistiin.
 
 ## Ohjelman suoritus
-1. Importtaa projekti IntelJ IDEA:lla tai cloonaa repositio.
+1. Importtaa projekti IntellJ IDEA:lla tai cloonaa repositio.
 2. Suorita ohjelman Miinaharava.java-kansion main-metodi.
 
 ## Ohjelman runko
