@@ -18,7 +18,7 @@ Sisältää kaikki pelin kulun kannalta käytettävät toiminnallisuudet, kuten 
 Alustaa pelikentän, halutun koon ja pommien määrän mukaan.
 
 ##### Tallennus.java
-Pelin loputtua ideana oli tallentaa aika ylös Miinaharava.txt tiedostoon. Tallennus ei kuitenkaan toimi ihan halutulla tavalla.
+Pelin loputtua ideana oli tallentaa aika ylös Miinaharava.txt tiedostoon. Tallennus on keskeneräinen.
 
 ![Miinaharava_kuva](https://user-images.githubusercontent.com/36680532/75066228-1a1b3c00-54f3-11ea-96b7-ac1953c19da9.png)
 
